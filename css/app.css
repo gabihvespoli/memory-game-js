@@ -319,6 +319,23 @@ h1 {
 	.fa-2x {
 		font-size: 1.5em;
 	}
+
+	.popup {
+		height: 90vh;
+		text-align: center;
+	}
+
+	.content-1 img {
+		width: 300px;
+	}
+
+	.content-2 {
+		display: none;
+	}
+
+	#play-again {
+		margin-top: 30px;
+	}
 }
 
 /* For Tablets and larger screens
@@ -342,6 +359,18 @@ h1 {
 	.popup {
 		width: 60%;
 		text-align: center;
+	}
+
+	.content-1 img {
+		width: 500px;
+	}
+
+	.content-2 {
+		display: none;
+	}
+
+	#play-again {
+		margin-top: 30px;
 	}
 }
 
